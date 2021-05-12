@@ -28,11 +28,11 @@ todoBtn.onclick = function (e) {
 
       else {
 
-      let newAlert = document.querySelector('[data-alert]');
+      // let newAlert = document.querySelector('[data-alert]');
 
-      if (document.body.contains(newAlert)) {
-            newAlert.remove();
-      }
+      // if (document.body.contains(newAlert)) {
+      //       newAlert.remove();
+      // }
 
       todoAlert.remove();
             

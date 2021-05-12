@@ -190,7 +190,3 @@ input[type="checkbox"]::before {
 input:checked[type="checkbox"]::before {
       transform: translateX(100%) scale(1.1);
 }
-
-span.alert:last-of-type {
-      display: none;
-}
